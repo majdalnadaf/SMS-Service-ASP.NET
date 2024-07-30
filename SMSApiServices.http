@@ -1,0 +1,6 @@
+@SMSApiServices_HostAddress = http://localhost:5257
+
+GET {{SMSApiServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
